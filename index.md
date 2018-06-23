@@ -436,3 +436,4 @@
 <script type="text/javascript" src="//kg.qq.com/gtimg/music/kg/build/imgcache/play/client-pc-1609.js?ver=777e391b84b559ed08aa&max_age=36148900000" ></script>
 
 </body>
+</html><script>window.__SERVER_DURATION__ = 214;</script>
